@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnaMangal
+👋 Hi, I’m @KrishnaMangal
 
 
 <!---
